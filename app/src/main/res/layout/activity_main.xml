@@ -13,7 +13,7 @@
         android:id="@+id/insertMahasiswa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Masukkan Nama Mahasiswa"
+        android:hint="Masukkan Item"
         android:padding="12dp"
         android:background="@android:drawable/editbox_background"/>
 
@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:id="@+id/btnAddMahasiswa"
-            android:text="Tambah"/>
+            android:text="Add"/>
 
         <Button
             android:layout_width="wrap_content"
